@@ -1,2 +1,2 @@
 # Underworld-Escape
-A word adventure game
+Developed an engaging word-based adventure game using Tkinter and following an object-oriented programming (OOP) approach. Implemented multiple levels and incorporated captivating graphics for an immersive experience. Utilized the MVC (Model-View-Controller) model to ensure a well-structured design. Enabled players to interact with the game world by picking up items and strategically utilizing them during gameplay.
